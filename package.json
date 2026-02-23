@@ -1,0 +1,23 @@
+{
+  "name": "sos-sandbox",
+  "version": "0.0.0",
+  "description": "Repositorio de pruebas para la asignatura de SOS",
+  "homepage": "https://github.com/elenabejper/sos-sandbox#readme",
+  "bugs": {
+    "url": "https://github.com/elenabejper/sos-sandbox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenabejper/sos-sandbox.git"
+  },
+  "license": "ISC",
+  "author": "Elena BP",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
